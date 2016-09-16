@@ -7,4 +7,4 @@ Knowing about the massive amounts of criticism that are relayed over review webs
 
 By using a web crawler and conducting sentiment analysis on the retrieved data, we were able to provide a better alternative to the patient-based surveys, providing Houston Methodist real-time data on patient satisfaction.
 
-Other applications of this research can be extending this tool to fit more than just the domain of health care institutions. This research can be used to create tools for companies that are looking to improve their services, as well as many non-profit organizations trying to improve thier outreach.
+Other applications of this research can be extending this tool to fit more than just the domain of health care institutions. This research can be used to create tools for companies that are looking to get better feedback on how they can improve their services.
